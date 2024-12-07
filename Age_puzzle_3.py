@@ -2,7 +2,10 @@ print("How_old_are_they")
 print("----------------------------\n")
 
 def main():
+  try:
     Hassan_age = int(input("Input Your age : ")  )
+  except ValueError:
+    print("Invalid Age input .. ")
 
     Ahsan_age : int = Hassan_age + 6
     Rana_age : int = Ahsan_age + 20
@@ -14,6 +17,7 @@ def main():
     print(f"Rana_age =  {Rana_age} \n")
     print(f"Malik_age =  {Malik_age} \n")
     print(f"latif_age =  {latif_age} \n")
+
 
 if __name__ == '__main__':
   main()
