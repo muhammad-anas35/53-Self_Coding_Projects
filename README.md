@@ -8,5 +8,9 @@
 - Their work Technique is very Smart .
 
 ## Programme 3
+- Age puzzle 
+- input you age and find others age .
+
+## Programme 4
 
 # Detail comming Soon
