@@ -1,4 +1,4 @@
-print("Star Structure")
+print("Arrow Structure")
 print("----------------------------\n")
       
 def main():
