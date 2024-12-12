@@ -12,5 +12,7 @@
 - input you age and find others age .
 
 ## Programme 4
+- Square Number 
+- Enter number to calculate the Square root. 
 
 # Detail comming Soon
