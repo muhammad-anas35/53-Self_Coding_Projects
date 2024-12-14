@@ -15,4 +15,9 @@
 - Square Number 
 - Enter number to calculate the Square root. 
 
+# Expression  
+##  programe 1
+-  There are two dice .
+- they roll three time and give 6 random value
+
 # Detail comming Soon
