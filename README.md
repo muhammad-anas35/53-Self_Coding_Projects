@@ -17,7 +17,17 @@
 
 # Expression  
 ##  programe 1
+### Dicing Roll
 -  There are two dice .
 - they roll three time and give 6 random value
+##  programe 2
+### e=mc^2
+- Solution of Einsten Equation.
+##  programe 3
+### Feet_to_Inches
+- Input the Value to convert Feet to Inches
+##  programe 4
+### pythagorean_theorem
+
 
 # Detail comming Soon
