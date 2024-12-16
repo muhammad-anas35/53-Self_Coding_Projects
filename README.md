@@ -28,6 +28,9 @@
 - Input the Value to convert Feet to Inches
 ##  programe 4
 ### pythagorean_theorem
-
+- I dont Like physics.
+##  programe 5
+### Remainder Division 
+- This modulus opertor practice  
 
 # Detail comming Soon
