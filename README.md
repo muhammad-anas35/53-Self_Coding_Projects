@@ -32,5 +32,10 @@
 ##  programe 5
 ### Remainder Division 
 - This modulus opertor practice  
+##  programe 6
+### Seconds_in_year
+- Input Years to convert into Seconds.
+##  programe 7
+### tiny_mad_lib
 
 # Detail comming Soon
